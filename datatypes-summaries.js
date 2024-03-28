@@ -30,3 +30,8 @@ console.log("hii");
 
 ()
 console.log(myFunction);
+
+// Stack(primitive ) and heap(Non-primitive) memory
+
+
+
