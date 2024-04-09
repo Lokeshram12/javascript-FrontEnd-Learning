@@ -2,7 +2,7 @@ const name="lokesh"
 
 console.log(name + " ram");
 
-console.log(`My name is ${name}`);
+console.log(`My name is ${name}`);  //My name is lokesh   - string Interpolation
 
 const gameName= new String('lokesh') //string is a object
 
@@ -28,4 +28,4 @@ const  anotherString=gameName.slice(-8,4)
 
 //includes()
 
-//split() -gives 
+//split() - gives 
